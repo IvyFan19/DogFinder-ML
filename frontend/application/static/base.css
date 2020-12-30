@@ -1,0 +1,22 @@
+
+body {
+    color: rrgb(46, 44, 44);
+    font-size: 17px;
+  }
+
+.hero-image {
+  /* background-position: center;
+  background-repeat: no-repeat; */
+  background-size: cover;
+  position: relative;
+}
+
+.card-img-top {
+  height: 30rem;
+  object-fit: cover;
+}
+
+.mybutton{
+  padding: 2px;
+  width : 100%;
+}
